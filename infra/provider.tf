@@ -6,8 +6,9 @@ terraform {
     }
   }
 }
-provider "aws" {
-  access_key = "AKIA2UVNUU4OZLJGPZWR"
-  secret_key = "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"
-  region = "eu-west-2"
-}
+
+/* provider "aws" {
+  access_key = ""
+  secret_key = ""
+  region = ""
+}*/
