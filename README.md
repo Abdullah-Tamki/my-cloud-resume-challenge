@@ -49,4 +49,5 @@ Inspired by the original [Cloud Resume Challenge](https://cloudresumechallenge.d
 
 ## 📬 Contact
 
-Feel free to connect with me via [www.linkedin.com/in/abdullah-tamki-b37063347]
+Feel free to connect with me via [LinkedIn](www.linkedin.com/in/abdullah-tamki-b37063347) or [Email](mailto:abdullahaltamki@gmail.com)
+
