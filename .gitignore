@@ -5,6 +5,11 @@
 
 # Ignore sensitive Terraform variable files
 terraform.tfvars
+terraform.tfvars.json
+*.auto.tfvars
 
-# Ignore AWS credentials
+# Ignore AWS CLI credentials
 .aws/
+
+# Ignore environment files (if used)
+.env
