@@ -11,5 +11,5 @@ terraform.tfvars.json
 # Ignore AWS CLI credentials
 .aws/
 
-# Ignore environment files (if used)
+# Ignore environment files
 .env
